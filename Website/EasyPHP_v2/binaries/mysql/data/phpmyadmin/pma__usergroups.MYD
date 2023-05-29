@@ -1,0 +1,7 @@
+2022-04-01 05:07:35 27624 [Note] C:\Users\wwwmo\Desktop\New folder (MICE)\EasyPHP_v2\binaries\mysql\bin\eds-mysqld.exe: Normal shutdown
+
+2022-04-01 05:07:35 27624 [Note] Giving 6 client threads a chance to die gracefully
+2022-04-01 05:07:35 27624 [Note] Event Scheduler: Purging the queue. 0 events
+2022-04-01 05:07:35 27624 [Note] Shutting down slave threads
+2022-04-01 05:07:37 27624 [Note] Forcefully disconnecting 0 remaining clients
+2022-04-01 05:07:37 27624 [Note] Binlog end

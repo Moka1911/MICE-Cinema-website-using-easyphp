@@ -1,0 +1,2 @@
+- In order to test the Website you can use username Moka1911 pass:Test
+- Open local host and select MICE to see homepage.

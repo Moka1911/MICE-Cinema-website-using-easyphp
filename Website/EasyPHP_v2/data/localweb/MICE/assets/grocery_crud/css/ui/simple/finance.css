@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #222a4e;
+    font-family: Helvetica;
+    color: white;
+}
+.topnav {
+    background-color: #222a4e;
+    overflow: hidden;
+  }
+    /* Style the links inside the navigation bar */
+    .topnav a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 13px 15px;
+        text-decoration: none;
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+    
+    /* Change the color of links on hover */
+    .topnav a:hover {
+      background-color: #e3e6ea;
+      color: #6fc8cf ;
+    }
+    
+    /* Add a color to the active/current link */
+    .topnav a.active {
+      background-color: #222a4e;
+      color: #6d768f;
+    }
+  
+    .topnav #logo_pic{
+        width: 200px;
+        height: 75px;
+        object-fit: contain;
+        float: left;
+        margin-left: 0px;
+    }
+    a #Profile_icon{
+        width: 50px;
+        height: 50px;
+        float: right;
+        margin-top: 3px;
+    }
+    .rightnav{
+        float: right;
+    }
+    .Log{
+        margin-top: 15px !important;
+    }
+    .table{
+        border: 2px solid white;
+        width: 80%;
+        height: 30%;
+        overflow: auto;
+        text-align: center;
+        margin: 20px;
+    }
